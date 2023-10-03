@@ -47,8 +47,8 @@
         android:textFontWeight="16"
         android:textSize="16sp"
         android:textStyle="bold"
-        tools:layout_editor_absoluteX="-1dp"
-        tools:layout_editor_absoluteY="21dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="72dp"
         tools:text="Hello World!" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
